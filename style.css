@@ -1,3 +1,43 @@
-h1 {
-    background-color: blue;
+body{
+    display: flex;
+    width: 800px;
+    height: 800px;
+    border: solid black 1px;
+}
+
+.odin_section{
+    width: 400px;
+    height: 800px;
+    border: solid black 1px;
+}
+
+.picture{
+    width: 400px;
+    height: 100px;
+    margin-top: 200px;
+    border: solid black 1px;
+}
+
+.text_section{
+    width: 400px;
+    height: 800px;
+    border: solid black 1px;
+}
+
+.text_section_one{
+    width: 400px;
+    height: 200px;
+    border: solid black 1px;
+}
+
+.text_section_two{
+    width: 400px;
+    height: 200px;
+    border: solid black 1px;
+}
+
+.text_section_three{
+    width: 400px;
+    height: 200px;
+    border: solid black 1px;
 }
