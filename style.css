@@ -7,6 +7,9 @@ body{
 }
 
 .odin_section{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     width: 40vw;
     height: 100vh;
     border: solid black 1px;
@@ -33,6 +36,13 @@ body{
 .odin_image{
     width: auto;
     height: 100%;
+}
+
+.odin_section #photo_description{
+    text-align: center;
+    align-items: flex-end;
+    font-weight: bold;
+    color: white;
 }
 
 .text_section{
