@@ -98,9 +98,14 @@ body{
     height: 50px;
     border-radius: 20px;
     margin: 40px;
-    background-color: green;
+    color: white;
+    background-color: #254d02;
 }
 
 .logIn{
     margin: 40px;
+}
+
+.text_section_three span{
+    color: #254d02;
 }
