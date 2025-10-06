@@ -75,8 +75,8 @@ body{
     display: flex;
     flex-direction: column;
     width: 50vw;
-    margin-top: 5em;
-    margin-left: 2em;
+    margin-top: 5rem;
+    margin-left: 2rem;
 }
 
 .text_section_two{
@@ -88,19 +88,19 @@ body{
 }
 
 .text_section_two h3{
-    margin-left: 40px;
+    margin-left: 2.5rem;
 }
 
 .container_labelInput{
     display: flex;
     flex-direction: row;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 0.625px;
+    margin-bottom: 0.625px;
 }
 
 .labelInput{
     display: flex;
-    margin: 0px 40px 0px 40px;
+    margin: 0.5rem 2.5rem 0.5rem 2.5rem;
     flex-direction: column;
 }
 
@@ -119,10 +119,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 200px;
-    height: 50px;
-    border-radius: 20px;
-    margin: 40px;
+    width: 12.5rem;  /* 200px */
+    height: 3.125rem; /* 50px */
+    border-radius: 1.25rem; /* 20px */
+    margin: 2.5rem;   /* 40px */
     color: white;
     background-color: #254d02;
 }
