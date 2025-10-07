@@ -119,12 +119,17 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 12.5rem;  /* 200px */
-    height: 3.125rem; /* 50px */
-    border-radius: 1.25rem; /* 20px */
-    margin: 2.5rem;   /* 40px */
+    width: 12.5rem; 
+    height: 3.125rem;
+    border-radius: 1.25rem; 
+    margin: 2.5rem; 
     color: white;
     background-color: #254d02;
+    box-shadow: 0.2rem 0.2rem 0.05rem rgb(104, 103, 103);
+}
+
+.createAccount:hover {
+    en
 }
 
 .logIn{
